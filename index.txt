@@ -1,1 +1,1 @@
-BE Project
+BE Project - Activity Classification Using Deep Neural Networks
